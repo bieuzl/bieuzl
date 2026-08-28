@@ -1,38 +1,40 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:B0E0E6,100:89CFF0&height=200&section=header&text=Olá!%20Meu%20nome%20é%20Gabriel&fontSize=40&fontAlignY=38&fontColor=ffffff" width="100%"/>
+<img src='https://capsule-render.vercel.app/api?type=waving&color=89CFF0&height=120&section=header' width='100%'/>
 
-### Sobre mim
-Atualmente, sou estudante de Análise e Desenvolvimento de Sistemas e consultor na Faculdade Impacta. Com experiência prévia em operações e liderança, hoje construo uma base técnica sólida na área de tecnologia. Meu foco principal é desenvolvimento backend, banco de dados, arquitetura de sistemas e inteligência artificial, buscando sempre aprender na prática através de projetos reais.
+![Apresentação](https://readme-typing-svg.demolab.com/?lines=Hello!+My+name+is+Gabriel.;&center=true&vCenter=true&size=45&width=1000&color=89CFF0&font='Poppins')
+
+
+## About me
+
+Currently studying Systems Analysis and Development at Faculdade Impacta and working as an educational consultant at the same institution. Proactivity, leadership, and operational experience are strong characteristics, always aiming for solid software development. Focused on backend engineering, databases, and creating practical real-world applications (SaaS) within the Java ecosystem.
 
 <div align="center">
-  <a href="https://linkedin.com/in/SEU-LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="mailto:SEU-EMAIL@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
+[![Linkedin](https://img.icons8.com/?size=50&id=xuvGCOXi8Wyg&format=png&color=000000)](https://www.linkedin.com/in/SEU-LINKEDIN)
+[![Gmail](https://img.icons8.com/?size=50&id=P7UIlhbpWzZm&format=png&color=000000)](mailto:SEU-EMAIL@gmail.com)
+
 </div>
 
-## 💻 Áreas
-Backend, Infraestrutura & IA
 
-## 👩‍💻 Minhas Competências
+## 💻 Areas
 
-| Área | Habilidades |
-| :--- | :--- |
-| **Idiomas** | Português, Inglês |
-| **Linguagens** | Java, SQL |
-| **Banco de Dados** | PostgreSQL |
-| **Ferramentas** | Git, GitHub, Notion |
 
-<br>
+### Backend Development, Systems Architecture & AI
 
-### Linguagens e Banco de Dados:
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 👨‍💻 Skills
+
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java" />&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql" />
+
+| Areas              | Skills                                                                                        |
+|-------------------|-----------------------------------------------------------------------------------------------|
+| **Languages** | Portuguese, English                                                                           |
+| **Programming** | Java, SQL                                                                                     |
+| **Frameworks** | Spring Boot, JPA / Hibernate, RESTful APIs, DTO                                               |
+| **Database** | PostgreSQL                                                                                    |
+| **Tools & Misc** | Git, GitHub, Notion, Clean Code                                                               |
+
 </div>
 
----
-
-### Ferramentas:
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="40" alt="notion" />
-</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
