@@ -29,12 +29,20 @@ Currently studying Systems Analysis and Development at Faculdade Impacta and wor
 
 | Areas              | Skills                                                                                        |
 |-------------------|-----------------------------------------------------------------------------------------------|
-| **Languages** | Portuguese, English                                                                           |
-| **Programming** | Java, SQL                                                                                     |
-| **Frameworks** | Spring Boot, JPA / Hibernate, RESTful APIs, DTO                                               |
-| **Database** | PostgreSQL                                                                                    |
-| **Tools & Misc** | Git, GitHub, Notion, Clean Code                                                               |
+| **Languages**     | Portuguese, English                                                                           |
+| **Programming**   | Java, SQL                                                                                     |
+| **Frameworks**    | Spring Boot, JPA / Hibernate, RESTful APIs, DTO                                               |
+| **Database**      | PostgreSQL                                                                                    |
+| **Tools & Misc**  | Git, GitHub, Notion, Clean Code                                                               |
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🐍 Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SEU-USUARIO/SEU-USUARIO/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SEU-USUARIO/SEU-USUARIO/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SEU-USUARIO/SEU-USUARIO/output/github-contribution-grid-snake.svg">
+</picture>
