@@ -5,7 +5,7 @@
 
 ## About me
 
-Currently studying Systems Analysis and Development at Faculdade Impacta and working as an educational consultant at the same institution. Proactivity, leadership, and operational experience are strong characteristics, always aiming for solid software development. Focused on backend engineering, databases, and creating practical real-world applications (SaaS) within the Java ecosystem.
+Currently, student of Systems Analysis and Development at Faculdade Impacta. Proactivity, communication, and leadership in academic and real-world projects are strong characteristics, always aiming for solid development. Active participation in challenges and creating practical applications, seeking to continuously improve skills in computing, backend engineering, and innovation.
 
 <div align="center">
 
@@ -17,24 +17,51 @@ Currently studying Systems Analysis and Development at Faculdade Impacta and wor
 
 ## 💻 Areas
 
-
 ### Backend Development, Systems Architecture & AI
-
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 👨‍💻 Skills
+## 👨‍💻 My Skills
 
 <div align="center">
 
-| Areas              | Skills                                                                                        |
-|-------------------|-----------------------------------------------------------------------------------------------|
-| **Languages**     | Portuguese, English                                                                           |
-| **Programming**   | Java, SQL                                                                                     |
-| **Frameworks**    | Spring Boot, JPA / Hibernate, RESTful APIs, DTO                                               |
-| **Database**      | PostgreSQL                                                                                    |
-| **Tools & Misc**  | Git, GitHub, Notion, Clean Code                                                               |
+| Area | Skills |
+| :--- | :--- |
+| **Languages** | Portuguese, English |
+| **Programming** | Java, SQL |
+| **Database** | PostgreSQL |
+| **Methodologies** | SCRUM, Kanban, Agile |
 
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+### Languages:
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java" />
+</div>
+
+---
+
+### Frameworks:
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring" />
+</div>
+
+---
+
+### Tools:
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgres" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-original.svg" height="40" alt="trello" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="40" alt="notion" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
